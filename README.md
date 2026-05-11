@@ -36,7 +36,7 @@ This project aims to reduce hallucination in Large Language Models using Retriev
 
 ## Demo Video
 [Watch Project Demo Video]
-((https://colab.research.google.com/drive/1wTSZ0uqw33lmhWEpiwbyvLUER8wQOIy0?usp=sharing))
+(([https://colab.research.google.com/drive/1wTSZ0uqw33lmhWEpiwbyvLUER8wQOIy0?usp=sharing](https://drive.google.com/file/d/18UQikrzxu1sr6Oqm9Juzffm1HrUle56R/view?usp=sharing)))
 
 
 ## Future Work
