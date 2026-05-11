@@ -34,8 +34,10 @@ This project aims to reduce hallucination in Large Language Models using Retriev
 - Better contextual grounding
 - Higher accuracy
 
-  ## Demo Video
-[Watch Project Demo Video]((https://colab.research.google.com/drive/1wTSZ0uqw33lmhWEpiwbyvLUER8wQOIy0?usp=sharing))
+## Demo Video
+[Watch Project Demo Video]
+((https://colab.research.google.com/drive/1wTSZ0uqw33lmhWEpiwbyvLUER8wQOIy0?usp=sharing))
+
 
 ## Future Work
 - Hybrid retrieval
